@@ -1,6 +1,10 @@
 body{background-color: cadetblue;}
 
-h5{text-align:centre}
+h5{
+    text-align:centre;
+    color:aqua;
+    font-weight:heavy;
+  }
 p
 
 {
